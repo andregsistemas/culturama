@@ -43,3 +43,13 @@
         grid-area: 1 / 4 / 3 / 5;
     }
 }
+
+@media (min-width: 1440) {
+    
+    .categorias{
+        display: grid;
+        
+    }   
+
+}
+
